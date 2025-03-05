@@ -4,7 +4,7 @@ Here’s a basic project starter template for your AI-Powered Research Assistant
 
 ## Project Breakdown
 
-![Workflow Diagram](workflow.png)
+![Workflow Diagram](https://github.com/abdull6771/Langgraph-Resercher-Agent/blob/main/workflow.png)
 
 ### 🔹 Agents:
 - **Planner**: Breaks down the research query into structured objectives.
