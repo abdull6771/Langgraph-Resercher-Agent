@@ -4,6 +4,8 @@ Here’s a basic project starter template for your AI-Powered Research Assistant
 
 ## Project Breakdown
 
+![Workflow Diagram](workflow.png)
+
 ### 🔹 Agents:
 - **Planner**: Breaks down the research query into structured objectives.
 - **Retriever**: Finds relevant sources based on the research plan.
@@ -24,8 +26,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/abdull6771/Langgraph-Resercher-Agent.git
-   cd Langgraph-Resercher-Agent
+   git clone https://github.com/your-username/your-repository.git
+   cd your-repository
    ```
 2. **Create a virtual environment (optional but recommended):**
    ```bash
