@@ -1,11 +1,22 @@
-# AI Code Review Agent
+# AI-Powered Research Assistant
 
-This project implements an AI-powered code review agent using Gradio and LangGraph. The agent takes a user query as input, processes it using an AI model, and returns a structured review.
+Here’s a basic project starter template for your AI-Powered Research Assistant using LangGraph. This setup includes a multi-agent system with a Planner Agent, Retriever Agent, Critic Agent, and Writer Agent. The framework is designed for expansion, allowing you to integrate additional capabilities later.
+
+## Project Breakdown
+
+### 🔹 Agents:
+- **Planner**: Breaks down the research query into structured objectives.
+- **Retriever**: Finds relevant sources based on the research plan.
+- **Critic**: Analyzes credibility and biases in sources.
+- **Writer**: Summarizes findings into a structured research report.
+
+### 🔹 Workflow Execution:
+- Uses LangGraph to define the agent workflow.
 
 ## Features
-- **AI-Powered Code Review**: Uses an intelligent agent to analyze and provide structured feedback on user queries.
+- **Multi-Agent System**: A structured approach to research assistance.
 - **Gradio UI**: A user-friendly interface for easy interaction.
-- **Quick Deployment**: Easily deploy the interface with a shareable public URL.
+- **Expandable Framework**: Allows for future enhancements and new agents.
 
 ## Installation
 
@@ -13,8 +24,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/abdull6771/Langgraph-Resercher-Agent.git
-   cd Langgraph-Resercher-Agent
+   git clone https://github.com/your-username/your-repository.git
+   cd your-repository
    ```
 2. **Create a virtual environment (optional but recommended):**
    ```bash
@@ -33,7 +44,7 @@ Run the Gradio application:
 python app.py
 ```
 
-After running the script, a local URL (or public shareable link if using Google Colab) will be generated. Open the link in your browser to use the AI-powered code review agent.
+After running the script, a local URL (or public shareable link if using Google Colab) will be generated. Open the link in your browser to use the AI-Powered Research Assistant.
 
 ## Contributing
 
