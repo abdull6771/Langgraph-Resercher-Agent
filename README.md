@@ -4,7 +4,8 @@ Here’s a basic project starter template for your AI-Powered Research Assistant
 
 ## Project Breakdown
 
-![workflow](https://github.com/user-attachments/assets/7dcdada2-6add-483f-8e05-8666518a2f48)
+![](workflow.png)
+
 
 ### 🔹 Agents:
 - **Planner**: Breaks down the research query into structured objectives.
